@@ -1,5 +1,3 @@
-<br/><br/>
-
 # 💻 Tech Stack:
 
 <table>
@@ -84,7 +82,6 @@
 </tr>
 </table>
 
-<br/><br/>
 <br/><br/>
 
 # 📊 GitHub Stats:
